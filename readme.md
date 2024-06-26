@@ -9,8 +9,8 @@ To set up this project locally, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Diksha1312/Image-Watermarking/
-   cd Image-Watermarking
+   git clone (https://github.com/Diksha1312/Image-Watermarking-Using-OpenCV-and-Flask-API
+   cd Image-Watermarking-Using-OpenCV-and-Flask-AP
 
 
 2. **Create and Activate Conda Environment**
