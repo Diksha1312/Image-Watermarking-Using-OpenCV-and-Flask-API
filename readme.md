@@ -47,7 +47,7 @@ To set up this project locally, follow these steps:
 
 The project includes a Flask web application (`app.py`) that allows users to:
 
-- Upload images from their local system.
+- Upload images from your local system.
 - Choose between logo or text watermark options.
 - View the watermarked image in the browser.
 - Clear the form to reset the interface.
